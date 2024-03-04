@@ -1,4 +1,11 @@
-# window安装mysql的bat脚本
+# Window安装MySQL的bat脚本
+
+
+
+**描述：**
+
+在Windows上快速安装MySQL 8.30
+
 
 
 **使用教程：**
